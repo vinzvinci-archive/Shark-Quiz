@@ -15,6 +15,13 @@
 
 <br />
 
+## Characters
+- 🔱 Lord Vinci - I use myself as Villain on this game (MINIme)
+- 👦 Luke - Victim
+- 👩 Lucy - Victim
+
+<br />
+
 ## Programming language
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> Java (GUI)
 
@@ -24,4 +31,4 @@
 - Pixel Art by Josh Rogers (Dungeon background)
 - Terraria 2d game (for home background)
 
-That's all thank you!
+-That's all thank you!-
