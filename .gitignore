@@ -1,2 +1,10 @@
 /nbproject/private/
 /build/
+
+#Steps to run the game.
+
+# 1. Open VVProject in Netbeans 8.2
+# 2. Double click the folder 
+# 3. Open Source Packages and vvproject
+# 4. Find VVProject and open it
+# 5. Press F6 to run the whole game.
