@@ -1,6 +1,10 @@
 # Shark-Quiz
 ![SharkQuizGIF](https://user-images.githubusercontent.com/73097560/97109908-f9a22200-1710-11eb-9a69-607a6fb4d30f.gif)
 
+## Note: Read Code of Conduct first
+- <a href="https://github.com/vinzvinci98/Shark-Quiz/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>
+- <a href="https://github.com/vinzvinci98/Shark-Quiz/blob/master/CONTRIBUTING.md">How to Contribute?</a>
+
 ## Math Game
 - ⚡ Level 1 - Addition
 - ⚡ Level 2 - Subtraction
