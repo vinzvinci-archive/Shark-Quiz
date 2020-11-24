@@ -40,5 +40,7 @@
 - Pixel Art by Josh Rogers (Dungeon background)
 - Terraria 2d game (for home background)
 
+<br />
+
 ## Contact me: 
 - m.me/Vintus.Pro1
