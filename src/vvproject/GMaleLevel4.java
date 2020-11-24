@@ -332,6 +332,8 @@ public class GMaleLevel4 extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void txtAnswerKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtAnswerKeyPressed
+        String ans = txtAnswer.getText();
+        int answer = Integer.parseInt(ans);
         if (evt.getKeyCode()==KeyEvent.VK_ENTER){
             if (txtAnswer.getText().trim().isEmpty()) {
                 JOptionPane.showMessageDialog(null, "Please type your answer");
@@ -341,7 +343,7 @@ public class GMaleLevel4 extends javax.swing.JFrame {
             int num2 = Integer.parseInt(lblNum2.getText());
             int sum=num1/num2;
 
-            if(Integer.parseInt(txtAnswer.getText()) == sum){
+            if(answer == sum){
                 lblCorrect.show();
                 lblCorrect.setText("Correct!");
                 lblWrong.hide();
@@ -446,6 +448,8 @@ public class GMaleLevel4 extends javax.swing.JFrame {
     }//GEN-LAST:event_txtAnswerKeyTyped
 
     private void btnEnterActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEnterActionPerformed
+        String ans = txtAnswer.getText();
+        int answer = Integer.parseInt(ans);
         if (txtAnswer.getText().trim().isEmpty()) {
                 JOptionPane.showMessageDialog(null, "Please type your answer");
             }
@@ -454,7 +458,7 @@ public class GMaleLevel4 extends javax.swing.JFrame {
             int num2 = Integer.parseInt(lblNum2.getText());
             int sum=num1/num2;
 
-            if(Integer.parseInt(txtAnswer.getText()) == sum){
+            if(answer == sum){
                 lblCorrect.show();
                 lblCorrect.setText("Correct!");
                 lblWrong.hide();
