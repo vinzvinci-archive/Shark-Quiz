@@ -5,6 +5,8 @@
 - <a href="https://github.com/vinzvinci98/Shark-Quiz/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>
 - <a href="https://github.com/vinzvinci98/Shark-Quiz/blob/master/CONTRIBUTING.md">How to Contribute?</a>
 
+<br />
+
 ## Math Game
 - ⚡ Level 1 - Addition
 - ⚡ Level 2 - Subtraction
