@@ -43,4 +43,4 @@
 <br />
 
 ## Contact me: 
-- m.me/Vintus.Pro1
+- <a href="m.me/Vintus.Pro1">m.me/Vintus.Pro1</a>
