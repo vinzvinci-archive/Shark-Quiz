@@ -44,3 +44,7 @@
 
 ## Contact me: 
 - <a href="m.me/Vintus.Pro1">m.me/Vintus.Pro1</a>
+
+<hr />
+
+<center>Copyright (c) 2020 Vincent Villafuerte</center>
