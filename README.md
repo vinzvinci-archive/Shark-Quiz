@@ -47,4 +47,4 @@
 
 <hr />
 
-<center>Copyright (c) 2020 Vincent Villafuerte</center>
+<p align="center">Copyright (c) 2020 Vincent Villafuerte</p>
