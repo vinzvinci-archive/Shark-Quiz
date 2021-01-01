@@ -47,4 +47,6 @@
 
 <hr />
 
-<p align="center">Copyright (c) 2020 Vincent Villafuerte</p>
+## Copyright and License
+Copyright (c) 2020 Vincent Villafuerte released under the <a href="https://github.com/vinzvinci98/Shark-Quiz/blob/master/LICENSE">MIT</a> license
+
