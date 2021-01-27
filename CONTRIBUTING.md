@@ -13,4 +13,3 @@ By participating in this project, you agree to abide by the <a href="https://git
 6. Go to original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
 **AND YOU'RE DONE!**
-https://github.com/vinzvinci98/Shark-Quiz.git
