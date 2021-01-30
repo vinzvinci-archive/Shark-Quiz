@@ -15,12 +15,6 @@
 
 <br />
 
-## Under development
-- ❤️ I want to improve it more because I only used animated gif for the characters movement and also for the background but for now my laptop needs an upgrade for this.
-- 💪 I want to add more features and levels.
-
-<br />
-
 ## Characters
 - 🔱 Lord Vinci - I use myself as Villain on this game (MINIme)
 - 👦 Luke - Victim
